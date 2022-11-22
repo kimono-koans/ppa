@@ -1,0 +1,38 @@
+name: Build Debian/Redhat packages
+
+on:
+  schedule:
+  - cron: 0 0 * * *
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  publish:
+    runs-on: ubuntu-20.04
+
+    steps:
+    - name: Checkout sources
+      uses: actions/checkout@v3
+    - name: Install wget
+      run: sudo apt install -y dpkg-scanpackages gzip gnupg wget
+    - name: Download new packages
+      run: |
+        wget -nv -O - https://api.github.com/repos/kimono-koans/httm/releases/latest | \
+        grep browser_download_url | \
+        grep deb | \
+        cut -f4 -d'"' | \ 
+        xargs -I{} wget "{}"
+    - name: Generate Packages files
+      run: dpkg-scanpackages --multiversion . > Packages
+      run: gzip -k -f Packages
+    - name: Sign all packages 
+      env:
+        SIGNING_KEY: ${{ secrets.SIGNING_KEY }}
+      run: echo -e "$SIGNING_KEY" | gpg --import
+      run: gpg --default-key "robert.swinford@gmail.com" -abs -o - Release > Release.gpg
+      run: gpg --default-key "robert.swinford@gmail.com" --clearsign -o - Release > InRelease
+    - name: Commit 
+      run: git add -A
+      run: git commit -m update
+      run: git push
