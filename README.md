@@ -4,7 +4,7 @@ This is a PPA for a few packages I build for myself.  The packages contained wit
 
 ## Caveats
 
-No support is offered by me for this PPA, for `apt`, for Ubuntu, or for any of the instructions offered below.  It somehow works on my system!  If you have support to offer others, perhaps to make it work on Mint or Debian Sid, the issues are still open.
+No support is offered by me for this PPA, for `apt`, for Ubuntu, or for any of the instructions offered below.  It somehow works on my system!
 
 You should *never* ask me when a package is going to be available, or if I can build for your very particular system.  Again, this PPA is only for me.
 
