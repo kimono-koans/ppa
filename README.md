@@ -1,12 +1,14 @@
 # kimono koans' Github PPA
 
-This is a PPA for a few packages I build for myself.  The packages contained within are built using Ubuntu 20.04 because that is the oldest non-deprecated version of Ubuntu available for GitHub action workflows, and these packages seem to work fine with Ubuntu 22.04.
+This is a PPA for a few packages I build for myself.  The packages contained within are built using Ubuntu 20.04 because that is the oldest non-deprecated version of Ubuntu available for a GitHub action workflow, and these packages seem to work fine with Ubuntu 22.04.
 
 ## Caveats
 
-No support is offered for this PPA, for `apt`, for Ubuntu, or for any of the instructions offered below.
+No support is offered by me for this PPA, for `apt`, for Ubuntu, or for any of the instructions offered below.  It somehow works on my system!  If you have support to offer others, perhaps to make it work on Mint or Debian Sid, the issues are still open.
 
-You should *never* ask me when a package is going to be available.  Of course, you're always free to build from my sources and start your own PPA at your leisure.  There are many wonderful blog entries about how to do so.  You're encouraged to [read one](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html).
+You should *never* ask me when a package is going to be available, or if I can build for your very particular system.  Again, this PPA is only for me.
+
+Of course, you're always free to build from my sources and start your own PPA at your leisure.  There are many wonderful blog entries about how to do so.  You're encouraged to [read one](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html).
 
 If you'd like more information regarding [httm](https://github.com/kimono-koans/httm) and [dano](https://github.com/kimono-koans/dano), please visit their respective repos.
 
