@@ -25,6 +25,6 @@ sudo curl -s --compressed -o /etc/apt/sources.list.d/kimono-koans.list "https://
 sudo apt update
 # install httm if you want
 sudo apt install httm
-# install dano if want
+# install dano if you want
 sudo apt install dano
 ```
