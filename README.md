@@ -6,7 +6,7 @@ This is a PPA for a few packages I build for myself.  The packages contained wit
 
 No support is offered by me for this PPA, for `apt`, for Ubuntu, or for any of the instructions offered below.  It somehow works on my system!  If you have support to offer others, perhaps to make it work on Mint or Debian Sid, the issues are still open.
 
-You should *never* ask me when a package is going to be available, or if I can build for your very particular system.  Again, this PPA is only for me.
+You should *never* ask me when a package is going to be available, or if I can build for your very particular system.  Again, this PPA is only for me.  If it breaks, if it is broken right now, unless you know exactly how to fix it, I don't want to hear about it.
 
 Of course, you're always free to build from my sources and start your own PPA at your leisure.  There are many wonderful blog entries about how to do so.  You're encouraged to [read one](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html).
 
