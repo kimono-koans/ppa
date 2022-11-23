@@ -1,10 +1,18 @@
 # kimono koans' Github PPA
 
-This is a PPA for a few packages I build for myself.  
+This is a PPA for a few packages I build for myself.  The packages contained within are built using Ubuntu 20.04 because that is the oldest non-deprecated version of Ubuntu available for GitHub action workflows, and these packages seem to work fine with Ubuntu 22.04.
 
-No support is offered for this PPA, for `apt`, or for the instructions below.
+## Caveats
 
-If you'd like more information about [httm](https://github.com/kimono-koans/httm) and [dano](https://github.com/kimono-koans/dano), please visit their respective repos.
+No support is offered for this PPA, for `apt`, for Ubuntu, or for any of the instructions offered below.
+
+You should *never* ask me when a package is going to be available.  Of course, you're always free to build from my sources and start your own PPA at your leisure.  There are many wonderful blog entries about how to do so.  You're encouraged to [read one](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html).
+
+If you'd like more information regarding [httm](https://github.com/kimono-koans/httm) and [dano](https://github.com/kimono-koans/dano), please visit their respective repos.
+
+Good luck!
+
+## Instructions
 
 ```bash
 # add my public key to list of trusted keys
