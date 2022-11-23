@@ -1,10 +1,10 @@
 # kimono koans' Github PPA
 
-This is a PPA for a few packages I build for myself.  No support is offered for this PPA, for `apt`, or for my instructions below.
+This is a PPA for a few packages I build for myself.  
+
+No support is offered for this PPA, for `apt`, or for the instructions below.
 
 If you'd like more information about [httm](https://github.com/kimono-koans/httm) and [dano](https://github.com/kimono-koans/dano), please visit their respective repos.
-
-To use this PPA, follow the instructions below:
 
 ```bash
 # add my public key to list of trusted keys
