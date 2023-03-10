@@ -1,0 +1,46 @@
+Package: dano
+Version: 0.6.2
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 1579
+Depends: ffmpeg (>=4.2.7), libc6 (>= 2.29)
+Suggests: flac (>=1.3.3)
+Filename: ./dano_0.6.2_amd64.deb
+Size: 506496
+MD5sum: 65c02006daf53b951c175a23bd136496
+SHA1: 7d251313910f6e5cf23694e277595c61a990390d
+SHA256: 0dccbb5d86a1ac533890b28f574ba016a4096cfe0c3bffe534095bda5b23d44b
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/dano/blob/master/README.md
+Description: A CLI tool for generating checksums of media bitstreams
+ dano is a wrapper for ffmpeg that checksums the internal file streams of ffmpeg
+ compatible media files, and stores them in a format which can be used to verify
+ such checksums later.  This is handy, because, should you choose to change
+ metadata tags, or change file names, the media checksums should remain the
+ same.
+Vcs-Browser: https://github.com/kimono-koans/dano
+Vcs-Git: https://github.com/kimono-koans/dano
+
+Package: httm
+Version: 0.23.3
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 5044
+Depends: libc6
+Filename: ./httm_0.23.3_amd64.deb
+Size: 1332008
+MD5sum: 315a5297a27ca1db87549b9baf539cf9
+SHA1: a3ace58d721842de95e2ec44863e248a54111241
+SHA256: ddb986bfca935b33f9aa7b325aebb8b9c8570d949f64bcb86df0734a13afbe9e
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+

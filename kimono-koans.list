@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/kimono-koans.gpg] https://raw.githubusercontent.com/kimono-koans/ppa/main ./
