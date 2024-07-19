@@ -1,0 +1,472 @@
+Package: dano
+Version: 0.8.0
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 37021
+Depends: ffmpeg (>=4.2.7), libc6 (>= 2.29)
+Suggests: flac (>=1.3.3)
+Filename: ./dano_0.8.0_amd64.deb
+Size: 4624572
+MD5sum: e717cbdbe6aa3ab2d70bb93ac7644bdb
+SHA1: 91e4a5b305b2d039eb7ceb4d59d92abadf01435e
+SHA256: a44e7406a10a28fc35ff688fed9a0e7afdf4630ca4bd53960ffb15c9948a4e47
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/dano/blob/master/README.md
+Description: A CLI tool for generating checksums of media bitstreams
+ dano is a wrapper for ffmpeg that checksums the internal file streams of ffmpeg
+ compatible media files, and stores them in a format which can be used to verify
+ such checksums later.  This is handy, because, should you choose to change
+ metadata tags, or change file names, the media checksums should remain the
+ same.
+Vcs-Browser: https://github.com/kimono-koans/dano
+Vcs-Git: https://github.com/kimono-koans/dano
+
+Package: dano
+Version: 0.8.1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 37519
+Depends: ffmpeg (>=4.2.7), libc6 (>= 2.29)
+Suggests: flac (>=1.3.3)
+Filename: ./dano_0.8.1_amd64.deb
+Size: 4658892
+MD5sum: cb7832425988da152ea605e699d0af1c
+SHA1: 56526309c44dd4ace1f3ea5602ca035acb1563b5
+SHA256: 717472b17f0d605b9ac565b14a74095f881f6e167076a75183735a4759f467ef
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/dano/blob/master/README.md
+Description: A CLI tool for generating checksums of media bitstreams
+ dano is a wrapper for ffmpeg that checksums the internal file streams of ffmpeg
+ compatible media files, and stores them in a format which can be used to verify
+ such checksums later.  This is handy, because, should you choose to change
+ metadata tags, or change file names, the media checksums should remain the
+ same.
+Vcs-Browser: https://github.com/kimono-koans/dano
+Vcs-Git: https://github.com/kimono-koans/dano
+
+Package: dano
+Version: 0.8.2
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 37644
+Depends: ffmpeg (>=4.2.7), libc6 (>= 2.29)
+Suggests: flac (>=1.3.3)
+Filename: ./dano_0.8.2_amd64.deb
+Size: 4668320
+MD5sum: 369d97c3e8ce987486276f74b215ffc8
+SHA1: 1914a73128da5daf99a5f0a7754f48b0e8074d30
+SHA256: 15bf83fe45bab410f6f67c3060213539c8fe5236f044a4b6da32fe52797a7be3
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/dano/blob/master/README.md
+Description: A CLI tool for generating checksums of media bitstreams
+ dano is a wrapper for ffmpeg that checksums the internal file streams of ffmpeg
+ compatible media files, and stores them in a format which can be used to verify
+ such checksums later.  This is handy, because, should you choose to change
+ metadata tags, or change file names, the media checksums should remain the
+ same.
+Vcs-Browser: https://github.com/kimono-koans/dano
+Vcs-Git: https://github.com/kimono-koans/dano
+
+Package: dano
+Version: 0.8.3-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 38231
+Depends: libc6 (>= 2.29), ffmpeg (>=4.2.7)
+Suggests: flac (>=1.3.3)
+Filename: ./dano_0.8.3-1_amd64.deb
+Size: 4870652
+MD5sum: 56c22d7f53a9a5811b1253f58dabbdbd
+SHA1: b99ac587db1bb501913b3b2173cd1c1715711863
+SHA256: a8184a1f3e421284f70e4a534dc2360026dffa0931c46c5f36f5800bf9b8a793
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/dano/blob/master/README.md
+Description: A CLI tool for generating checksums of media bitstreams
+ dano is a wrapper for ffmpeg that checksums the internal file streams of ffmpeg
+ compatible media files, and stores them in a format which can be used to verify
+ such checksums later.  This is handy, because, should you choose to change
+ metadata tags, or change file names, the media checksums should remain the
+ same.
+Vcs-Browser: https://github.com/kimono-koans/dano
+Vcs-Git: https://github.com/kimono-koans/dano
+
+Package: dano
+Version: 0.9.0-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 1400
+Depends: ffmpeg (>=4.2.7), libc6 (>= 2.29)
+Suggests: flac (>=1.3.3)
+Filename: ./dano_0.9.0-1_amd64.deb
+Size: 471960
+MD5sum: 28441912c328f4a743a14dda5021a87b
+SHA1: 41fa83f5e8ee3d9ce80db9e923bf7ca821f80424
+SHA256: b9e1cb9f38bdfb2020a01bfa8a3b8be78cd40f776966557079cb4bfff0a05431
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/dano/blob/master/README.md
+Description: A CLI tool for generating checksums of media bitstreams
+ dano is a wrapper for ffmpeg that checksums the internal file streams of ffmpeg
+ compatible media files, and stores them in a format which can be used to verify
+ such checksums later.  This is handy, because, should you choose to change
+ metadata tags, or change file names, the media checksums should remain the
+ same.
+Vcs-Browser: https://github.com/kimono-koans/dano
+Vcs-Git: https://github.com/kimono-koans/dano
+
+Package: httm
+Version: 0.37.0-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 6146
+Depends: libc6
+Filename: ./httm_0.37.0-1_amd64.deb
+Size: 1689396
+MD5sum: 6868cd84e1d1974282ff8dd56cd9f75f
+SHA1: db1341229089be1dd6219674dd6e5aa006f6b617
+SHA256: 2cfc99fb268bf3f7933d364fd8ecf1b2a61e58469895ff420dd0d9480818cda0
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.37.1-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 6145
+Depends: libc6
+Filename: ./httm_0.37.1-1_amd64.deb
+Size: 1687256
+MD5sum: cfd0f2354149f2051920dcf6360048d8
+SHA1: 2f9084315dbbc440b088f2fbaae900e6bbb95379
+SHA256: 267032e5c1e8813ff993b07941a5391488fa5cbe9623c1c88ae5edc38e205ad1
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.37.2-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 6146
+Depends: libc6
+Filename: ./httm_0.37.2-1_amd64.deb
+Size: 1687364
+MD5sum: d387878bc81793aae3e324ebc7ee391c
+SHA1: a44d49b8e7b831ba6b8f62f91f6b579969a9fb41
+SHA256: a8ca09e497904315b03f0bca2ce7a1839453b18ddb545862ec5237dfc896ca73
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.37.3-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 6146
+Depends: libc6
+Filename: ./httm_0.37.3-1_amd64.deb
+Size: 1686996
+MD5sum: 6da9d7b2b875266fc28b814b063d6e0d
+SHA1: 35896a58b8f48eb0064bf0440618fc11a1c4c006
+SHA256: 40d5f4626fc02ca506157412d1c452e9ecbd6cc4222195a7b66307c8e938e0d0
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.37.4-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 6147
+Depends: libc6
+Filename: ./httm_0.37.4-1_amd64.deb
+Size: 1688392
+MD5sum: 25471642ced31619289067a5adf8eae3
+SHA1: 5c7cda0f1c54e103bef1a847789a203b07eac543
+SHA256: f04cd2bfa325d78915e165c747600ca62b4d621c377afd9ce039102a34f69c09
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.37.5-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 6156
+Depends: libc6
+Filename: ./httm_0.37.5-1_amd64.deb
+Size: 1691536
+MD5sum: 9b3b2a3ee74b93b239790d74bd517841
+SHA1: 1406a523867b22d8ccd2193b34f49b9b16845cef
+SHA256: b3800eaf5813b8646afba88a7e7114ee6f833a0b3dbd608436c7043e19eac3d3
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.37.6-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 6151
+Depends: libc6
+Filename: ./httm_0.37.6-1_amd64.deb
+Size: 1690844
+MD5sum: ed794b387feb36ba5a8c01a6db4ebb98
+SHA1: d54f64fc9076640b2e592429f8e9e3aa0f6f0247
+SHA256: edfb3e19ae9c2bf6d206f969ba5bf713f46c3b1a390beb87d1b67e8464668f1e
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.37.7-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 6151
+Depends: libc6
+Filename: ./httm_0.37.7-1_amd64.deb
+Size: 1690812
+MD5sum: 91e659ceebb81082dcb05d257ca4037f
+SHA1: 92686b9f233db91588de36ee258d2473086d0d3d
+SHA256: 2671d5eb7b5b4ad5fc39f867ee81149b88ffc3ba6cf50db957a51a490f2550ef
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.37.8-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 4149
+Depends: libc6
+Filename: ./httm_0.37.8-1_amd64.deb
+Size: 1264320
+MD5sum: 24644b716bd7141839b3ff953d5f595e
+SHA1: 123403589ba21f371300d7c3af74498332f13f43
+SHA256: a8b8b83baab433aabb02abe01e4514b959ae0c9e8721bf69fa3dee329b89c280
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.37.9-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 4144
+Depends: libc6
+Filename: ./httm_0.37.9-1_amd64.deb
+Size: 1264040
+MD5sum: a6690219cd01ead2fb463d50f8d85833
+SHA1: 4a8e0a748590940e103acb667dc43f0e333f2385
+SHA256: 7aa83cd033737dc9eebe546384cc768f1400ba112ea6a0de048de5aa8980e78e
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.38.0-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 4159
+Depends: libc6
+Filename: ./httm_0.38.0-1_amd64.deb
+Size: 1253044
+MD5sum: 93d4fd880460c5a66f705238be2a3c8e
+SHA1: 5c7ed5f24e06d318215d692f4c0cb5fa2f99ab7d
+SHA256: 429ddae623f0bb3f191cea4cf2dd9db9b874182b89481741794c03c8af5c7cf5
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.38.1-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 4159
+Depends: libc6
+Filename: ./httm_0.38.1-1_amd64.deb
+Size: 1252968
+MD5sum: 686dfc448d88c2fd8810b6d8353a64dd
+SHA1: 335478fc4dab4a822b5e873cd786ad935edd82a7
+SHA256: 1eb408724a3016ebd519cde654732226cf54458d920e37d9cf345431398dba3e
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.38.2-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 4108
+Depends: libc6
+Filename: ./httm_0.38.2-1_amd64.deb
+Size: 1243848
+MD5sum: 83fdf62a7ddd0eec3eb4d87a57acc804
+SHA1: e87d734826ec637132a208c91d965290b7884241
+SHA256: 376b4516085d455ed9a64ae2a611034344bca61cdc28c3dab6f8e5e3cb8a4c6a
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.39.0-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 4069
+Depends: libc6
+Filename: ./httm_0.39.0-1_amd64.deb
+Size: 1236860
+MD5sum: 0e4fe9c29e2149bdbca5eef268d9b63e
+SHA1: 76504f88458de3cde3ac362ea267e40967504384
+SHA256: f9c159fb64df449b518113ba915587144c01096896f1a969494371a08c86d97a
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.39.1-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 4071
+Depends: libc6
+Filename: ./httm_0.39.1-1_amd64.deb
+Size: 1236260
+MD5sum: bf7a58816dafa87a0cf4db32db8f7dcd
+SHA1: 4d0f568af420c2ed8789e8eaa347b5fdd0739ce5
+SHA256: d848441058789cddc66124264c9593896e453781ba7d63aa93c8e26a76d4ee7f
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
+Package: httm
+Version: 0.39.2-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 4069
+Depends: libc6
+Filename: ./httm_0.39.2-1_amd64.deb
+Size: 1236192
+MD5sum: 5cb5a185876d5948974aded544b17ccf
+SHA1: 28e655e6d6a3c79479d08a5f0e7f796255c24ead
+SHA256: 55c3856d5226302dda7d0cc5f0ca7579ccf2e015fa3168b5e567a8807458316b
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+Vcs-Browser: https://github.com/kimono-koans/httm
+Vcs-Git: https://github.com/kimono-koans/httm
+
