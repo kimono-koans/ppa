@@ -10,7 +10,7 @@ You should *never* ask me when a package is going to be available, or if I can b
 
 Of course, you're always free to build from my sources and start your own PPA at your leisure.  There are many wonderful blog entries about how to do so.  You're encouraged to [read one](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html).
 
-If you'd like more information regarding [httm](https://github.com/kimono-koans/httm) and [dano](https://github.com/kimono-koans/dano), please visit their respective repos.
+If you'd like more information regarding [httm](https://github.com/kimono-koans/httm) and [dano](https://github.com/kimono-koans/dano) and [two_percent](https://github.com/kimono-koans/two_percent), please visit their respective repos.
 
 Good luck!
 
@@ -27,4 +27,6 @@ sudo apt update
 sudo apt install httm
 # install dano if you want
 sudo apt install dano
+# install dano if you want
+sudo apt install two_percent
 ```
