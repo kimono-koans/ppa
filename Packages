@@ -118,6 +118,28 @@ Description: A CLI tool for generating checksums of media bitstreams
 Vcs-Browser: https://github.com/kimono-koans/dano
 Vcs-Git: https://github.com/kimono-koans/dano
 
+Package: dano
+Version: 0.9.1-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 1376
+Depends: ffmpeg (>=4.2.7), libc6 (>= 2.29)
+Suggests: flac (>=1.3.3)
+Filename: ./dano_0.9.1-1_amd64.deb
+Size: 474240
+MD5sum: d45bf209af7ac74ec2d720b1981b3747
+SHA1: 042a332d4962c75feb3e5b070db27d2856eabda2
+SHA256: cfd777fca6e116aa2d0b81386c49caa8f890a51f9324fe8c1057d2974130b5cc
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/dano/blob/master/README.md
+Description: A CLI tool for generating checksums of media bitstreams
+ dano is a wrapper for ffmpeg that checksums the internal file streams of ffmpeg
+ compatible media files, and stores them in a format which can be used to verify
+ such checksums later.  This is handy, because, should you choose to change
+ metadata tags, or change file names, the media checksums should remain the
+ same.
+
 Package: httm
 Version: 0.42.0-1
 Architecture: amd64
