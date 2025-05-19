@@ -1,6 +1,6 @@
 # kimono koans' Github PPA
 
-This is a PPA for a few packages I build for myself.  The packages contained within are built using Ubuntu 20.04 because that is the oldest non-deprecated version of Ubuntu available for a GitHub action workflow, and these packages seem to work fine with Ubuntu 22.04.
+This is a PPA for a few packages I build for myself.  The packages contained within are built using Ubuntu 22.04 because that is the oldest non-deprecated version of Ubuntu available for a GitHub action workflow, and these packages seem to work fine with Ubuntu 24.04.
 
 ## Caveats
 
