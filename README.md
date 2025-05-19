@@ -27,6 +27,6 @@ sudo apt update
 sudo apt install httm
 # install dano if you want
 sudo apt install dano
-# install dano if you want
+# install two_percent if you want
 sudo apt install two_percent
 ```
