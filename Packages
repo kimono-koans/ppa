@@ -41,6 +41,27 @@ Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs data
  restore from such versions, and even to snapshot datasets which contain certain
  files.
 
+Package: httm
+Version: 0.49.2-1
+Architecture: amd64
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 20949
+Depends: libc6
+Recommends: bash, coreutils, findutils, grep, tree, strace, awk, util-linux
+Filename: ./httm_0.49.2-1_amd64.deb
+Size: 3755164
+MD5sum: 7d87c96990bf59d8ab76856f9c486bb6
+SHA1: 3feb70a380c93ff128360723ab7b6b319c711a8e
+SHA256: cbbeab6810bfd4a1921121d502cf338e941e5ea874b6c5b42534fece5668735a
+Section: utility
+Priority: optional
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+
 Package: two-percent
 Version: 0.12.17-1
 Architecture: amd64
